@@ -1,0 +1,25 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/FontAwesome5_Pro_Light.ttf",
+      "sha1": "ec4bc00183c9c93d9b1dea8c5e3182386c7dbf0a"
+    },
+    {
+      "path": "assets/fonts/FontAwesome5_Pro_Solid.ttf",
+      "sha1": "546251365a94e2b2640acb469cdce963ad3612c7"
+    },
+    {
+      "path": "assets/fonts/bold.ttf",
+      "sha1": "eb7389abf825342c68e0708f6025846ef5755aea"
+    },
+    {
+      "path": "assets/fonts/regular.ttf",
+      "sha1": "d0f9baf6772c4dcc87d56f0960c1a48deea557a1"
+    },
+    {
+      "path": "assets/fonts/urdu.ttf",
+      "sha1": "3378c936e5caa1e0be9712a807d3b5df5593ff2c"
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "name": "Province",
+  "displayName": "Province",
+  "svgAppIcon": {
+    "foregroundPath": "./assets/svg/icon.svg"
+  }
+}
