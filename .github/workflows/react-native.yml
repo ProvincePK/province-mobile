@@ -1,0 +1,38 @@
+name: React Native
+on:
+  push:
+    branches: [ "workflow" ]
+  workflow_dispatch:
+
+env:
+  API_TOKEN_GITHUB: ${{ secrets.GITHUB_TOKEN }}
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    environment: halaat
+    steps:
+      - uses: actions/checkout@v3
+
+      - uses: actions/setup-node@v3
+        with:
+          node-version: 18
+
+      - name: Setup Git
+        run: |
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "github-actions[bot]"
+          git config --global init.defaultBranch "main"
+
+      - name: Init React Native
+        run: npx @tisf/rn-init
+
+      - name: Push changes
+        uses: cpina/github-action-push-to-another-repository@main
+        with:
+          source-directory: .
+          destination-github-username: 'ProvincePK'
+          destination-repository-name: 'province-mobile'
+          user-email: github-actions[bot]@users.noreply.github.
+          user-name: github-actions[bot]
+          target-branch: main

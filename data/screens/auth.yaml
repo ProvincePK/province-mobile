@@ -1,0 +1,30 @@
+auth:
+  mode: passwordless
+
+mobile:
+  social: false
+  countries:
+    - 'PK'
+
+otp:
+  digits: 6
+
+onboard:
+  slides:
+    - Get Things Done|Post a task or order a gig|https://raw.githubusercontent.com/tea-is-fantastic/assets_test/main/tasks.png
+    - Verified Mazdoors|All our mazdoors undergo background checks|https://raw.githubusercontent.com/tea-is-fantastic/assets_test/main/badges.png
+    - Reviews & Ratings|To help you make an informed choice|https://raw.githubusercontent.com/tea-is-fantastic/assets_test/main/reviews.png
+    - Earn Money|Bid on tasks or post a gig|https://raw.githubusercontent.com/tea-is-fantastic/assets_test/main/earn.png
+    - Expand Business|Find customers beyond your location|https://raw.githubusercontent.com/tea-is-fantastic/assets_test/main/area.png
+    - Flexible Timings|Find potential clients round the clock|https://raw.githubusercontent.com/tea-is-fantastic/assets_test/main/schedule.png
+
+root:
+  image:
+    - https://raw.githubusercontent.com/tea-is-fantastic/assets_test/main/cov.jpg
+    - https://raw.githubusercontent.com/tea-is-fantastic/assets_test/main/cov1.jpg
+    - https://raw.githubusercontent.com/tea-is-fantastic/assets_test/main/cov2.jpg
+    - https://raw.githubusercontent.com/tea-is-fantastic/assets_test/main/cov3.jpg
+    - https://raw.githubusercontent.com/tea-is-fantastic/assets_test/main/cov4.jpg
+  logo: https://raw.githubusercontent.com/tea-is-fantastic/assets_test/main/logofull.png
+  line1: Karachi sab ka hai
+  line2: Karachi ka koi nai!

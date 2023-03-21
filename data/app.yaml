@@ -1,0 +1,6 @@
+name: province
+template: react_native
+repo: ProvincePK/province-mobile
+apk: pk.province.app
+title: Province
+tagline: Karachi sab ka hai, Karachi ka koi nai

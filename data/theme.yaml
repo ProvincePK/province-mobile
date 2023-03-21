@@ -1,0 +1,75 @@
+palette:
+  splash: '#669999'
+  icon: '#009688'
+  primary: '#009688'
+  primaryDark: '#00695f'
+  primaryLight: '#00dec9'
+  secondary: '#ff5252'
+  secondaryDark: '#eb0000'
+  secondaryLight: '#fe7474'
+  tertiary: '#fed801'
+  tertiaryDark: '#b19700'
+  tertiaryLight: '#fedf33'
+  quaternary: '#00BCD4'
+  quaternaryDark: '#008394'
+  quaternaryLight: '#10e4ff'
+  disabled: '#919191'
+  disabledDark: '#515151'
+  disabledLight: '#C1C1C1'
+  background: '#eeeeee'
+  card: '#ffffff'
+  text: '#1C1B1F'
+  success: '#009688'
+  error: '#e57373'
+  info: '#4dd0e1'
+  warning: '#FFCA28'
+
+typography:
+  regularFont: regular|400
+  lightFont: regular|200
+  boldFont: bold|700
+  urduFont: urdu|400
+  iconicFont: iconic|400
+  bodyLarge: 16|24|0.15
+  bodyMedium: 14|20|0.25
+  bodySmall: 12|16|0.40
+  displayLarge: 57|64|0
+  displayMedium: 45|52|0
+  displaySmall: 36|44|0
+  headlineLarge: 32|40|0
+  headlineMedium: 28|36|0
+  headlineSmall: 24|32|0
+  labelLarge: 13|20|0.1
+  labelMedium: 12|16|0.5
+  labelSmall: 11|16|0.5
+  titleLarge: 22|28|0
+  titleMedium: 16|24|0.15
+  titleSmall: 14|20|0.1
+
+dimensions:
+  fontSizeTiny: 10
+  fontSizeSmall: 12
+  fontSizeBase: 14
+  fontSizeSmallMedium: 16
+  fontSizeNormalMedium: 18
+  fontSizeMedium: 20
+  fontSizeMediumLarge: 22
+  fontSizeLarge: 24
+  fontSizeLargeAlt1: 26
+  fontSizeLargeAlt2: 28
+  fontSizeLargeAlt: 30
+  fontSizeHuge: 36
+  fontSizeMassive: 48
+  fontSizeHumongous: 64
+  horizontalPadding: 10
+  cardPadding: 15
+  cardPaddingNarrow: 10
+  verticalPadding: 10
+  verticalDoublePadding: 20
+  horizontalDoublePadding: 20
+  verticalHalfPadding: 5
+  horizontalHalfPadding: 5
+
+components:
+  containedButton:
+    fontSize: 11

@@ -1,0 +1,15 @@
+images:
+  splash: https://raw.githubusercontent.com/tea-is-fantastic/assets_test/main/splash.png
+
+svg:
+  icon: https://raw.githubusercontent.com/tea-is-fantastic/assets_test/main/icon.svg
+
+fonts:
+  regular: https://raw.githubusercontent.com/tea-is-fantastic/assets_test/main/regular.ttf
+  bold: https://raw.githubusercontent.com/tea-is-fantastic/assets_test/main/bold.ttf
+  urdu: https://raw.githubusercontent.com/tea-is-fantastic/assets_test/main/urdu.ttf
+  FontAwesome5_Pro_Solid: https://raw.githubusercontent.com/tea-is-fantastic/assets_test/main/icons.ttf
+  FontAwesome5_Pro_Light: https://raw.githubusercontent.com/tea-is-fantastic/assets_test/main/iconl.ttf
+
+icons:
+  
