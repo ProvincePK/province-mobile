@@ -21,10 +21,6 @@ onboard:
 root:
   image:
     - https://raw.githubusercontent.com/tea-is-fantastic/assets_test/main/cov.jpg
-    - https://raw.githubusercontent.com/tea-is-fantastic/assets_test/main/cov1.jpg
-    - https://raw.githubusercontent.com/tea-is-fantastic/assets_test/main/cov2.jpg
-    - https://raw.githubusercontent.com/tea-is-fantastic/assets_test/main/cov3.jpg
-    - https://raw.githubusercontent.com/tea-is-fantastic/assets_test/main/cov4.jpg
   logo: https://raw.githubusercontent.com/tea-is-fantastic/assets_test/main/logofull.png
   line1: Karachi sab ka hai
   line2: Karachi ka koi nai!
